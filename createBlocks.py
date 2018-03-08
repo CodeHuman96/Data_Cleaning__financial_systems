@@ -1,4 +1,4 @@
-del create_blocks(self):
+def createBlocks(self):
 	###algorithm 1
 	###input: all sorted records from dataset
 	###note: all blocks are non-overlapping windows
