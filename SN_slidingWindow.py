@@ -1,4 +1,4 @@
-def slidingWindow(self, win_size):
+def SN_slidingWindow(self, win_size):
 	#Algorithm2 -sliding window
 	#input: sliding window size(winSize)
 	#create all candidate pairs and forward each to phase 2 of cocktail mod1/2
